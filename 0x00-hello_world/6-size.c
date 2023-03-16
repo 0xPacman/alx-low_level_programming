@@ -3,7 +3,6 @@
 /**
  * sizeof - returns the size of a variable
  */
-
 int main(void)
 {
 	printf("Size of a char: %d byte(s)\n", sizeof(char));
