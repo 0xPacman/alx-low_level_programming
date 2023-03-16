@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * sizeof - returns the size of a variable
+ * main - prints the size of various types
+ * Return: 0
  */
 int main(void)
 {
