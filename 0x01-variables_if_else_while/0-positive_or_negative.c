@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <time.h>
+#include <unistd.h>
 
 /**
  * main - check neg or pos program
