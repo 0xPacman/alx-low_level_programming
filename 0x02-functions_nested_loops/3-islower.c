@@ -2,7 +2,7 @@
 
 /**
  * _islower - is lower
- * @n: char
+ * @c: char
  * Return: Always(0).
  */
 int _islower(int c)
