@@ -2,8 +2,8 @@
 
 /**
  * add - add two numbers from input
- * @a: first parameter
- * @b: second parameter
+ * @a: int
+ * @b: int
  * Return: sum.
  */
 int add(int a, int b)
