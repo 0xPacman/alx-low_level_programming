@@ -5,7 +5,7 @@
  *
  * Return: void
  */
-int print_numbers()
+void print_numbers()
 {
 	int i;
 
