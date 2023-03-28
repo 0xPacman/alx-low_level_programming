@@ -5,6 +5,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <unistd.h>
+#include <time.h>
 
 void reset_to_98(int *n);
 void swap_int(int *a, int *b);
