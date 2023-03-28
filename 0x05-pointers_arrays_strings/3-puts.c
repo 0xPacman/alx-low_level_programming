@@ -4,7 +4,6 @@
  * _puts - pust string
  * @str: char *
  */
- 
 void _puts(char *str)
 {
 	int i = 0;
