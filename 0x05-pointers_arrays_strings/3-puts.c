@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _puts - pusts to stdout
+ * _puts - pust string
  * @str: char *
  */
  
