@@ -2,6 +2,7 @@
 
 /**
  * binary_to_uint - converts a binary number
+ *
  * @b: const char *
  *
  * Return: unsigned int.
